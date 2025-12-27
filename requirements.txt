@@ -1,0 +1,15 @@
+# Network Enumeration Tool - Python Dependencies
+# Python 3.12 required
+
+# Note: This tool requires external command-line tools that must be installed separately:
+# - nmap (required)
+# - enum4linux (optional, for Windows SMB enumeration)
+# - smbclient (optional, for Windows SMB enumeration)
+# - nmblookup (optional, for NetBIOS enumeration)
+# - ldapsearch (optional, for LDAP/AD enumeration)
+
+# Python standard library modules are used (no external Python packages required)
+# However, if you want to add type checking or other enhancements, you could add:
+# mypy>=1.0.0
+# pylint>=2.15.0
+
